@@ -19,7 +19,7 @@
         <i class='bx bx-cog'></i>
         <span>Settings</span>
     </a>
-            <form action="">
+            <form action="adminT.php">
                 <h1>Login</h1>
                 <div class="input-box">
                     <input type="text" placeholder="Username" required>
